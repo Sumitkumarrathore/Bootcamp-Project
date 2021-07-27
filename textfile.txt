@@ -1,0 +1,8 @@
+------------------------------------------------------------- 
+ Weather Stats for - BILASPUR  || 27 Jul 2021 | 05:50:29 AM
+ ------------------------------------------------------------- 
+Current temperature is: 26.86 deg C
+Current weather desc  :,overcast clouds 
+Current Humidity      :,78,% 
+Current wind speed    :,5.83,kmph 
+====================================================
